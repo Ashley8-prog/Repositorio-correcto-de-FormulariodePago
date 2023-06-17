@@ -1,0 +1,19 @@
+#formulariodepago{
+    border: 1px gainsboro;
+}
+
+#titulito{
+    color: rgb(194, 104, 104);
+    background-color: rgb(231, 156, 168);
+    padding: 15px;
+    border-radius: 2%;
+}
+
+#tarjetas{
+    background-color: rgb(165, 159, 159);
+}
+
+#colon{
+
+    text-align: right; !important
+}
