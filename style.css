@@ -6,14 +6,29 @@
     color: rgb(194, 104, 104);
     background-color: rgb(231, 156, 168);
     padding: 15px;
-    border-radius: 2%;
+    
 }
 
-#tarjetas{
-    background-color: rgb(165, 159, 159);
+#tarjetas {
+    
+    background-color: rgb(206, 201, 201);
+    margin: 0;
 }
+
+
 
 #colon{
 
-    text-align: right; !important
+    text-align: right;
+}
+#monto{
+    width: 100%;
+}
+
+#colon{
+    width: 25%;
+}
+
+input{
+    border: 1px solid
 }
